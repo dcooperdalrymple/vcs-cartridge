@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "vcs-cartridge")(type "KiCad")(uri "${KIPRJMOD}/vcs-cartridge.kicad_sym")(options "")(descr ""))
+)
